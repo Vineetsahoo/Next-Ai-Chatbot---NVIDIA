@@ -206,15 +206,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 🔮 Roadmap
-
-- [ ] Voice input/output integration
-- [ ] Multi-language support
-- [ ] Custom model training interface
-- [ ] Real-time collaboration features
-- [ ] Mobile app version
-- [ ] Advanced analytics dashboard
-
----
-
 *"Crafted not just with code, but with community spirit and curiosity. May it converse as wisely as it was built."*
